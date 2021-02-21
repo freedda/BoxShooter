@@ -7,3 +7,5 @@ Game built in Unity - version 5.6.7f1
 * Green boxes yield positive points
 * Pink boxes yield negative time and positive points.
 * Yellow boxes yield negative time.
+
+Run  /Builds/WebGL/index.html in Firefox
