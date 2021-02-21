@@ -1,6 +1,6 @@
 # BoxShooter
 
-This project has been created for the course ""Introduction to Game Development" offered by Michigan State University on Coursera.
+This project has been created for the course "Introduction to Game Development" offered by Michigan State University on Coursera.
 Game built in Unity - version 5.6.7f1
 
 * White boxes give extra time 
